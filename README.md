@@ -1,4 +1,4 @@
-<img width="57" alt="Dan's House" src="https://github.com/user-attachments/assets/a1736af8-219b-46c1-9db4-225c85809354">
+<img width="75" alt="Dan's House" src="https://github.com/user-attachments/assets/a5a2abb1-d5d6-465b-b757-8e0bbc2f5ef1">
 
 # Dan's House
 
