@@ -1,4 +1,3 @@
-# Dan's Portfolio
-this is my portfolio website. it's under construction (as you can clearly see) and nothing is ready for now. just uploaded it to have a structure ready for my work.
-
-## [My Website](https://ddvniele.github.io)
+<img width="287" alt="Dan's House" src="https://github.com/user-attachments/assets/a1736af8-219b-46c1-9db4-225c85809354">
+# Dan's House
+[ddvniele.github.io](https://ddvniele.github.io)
